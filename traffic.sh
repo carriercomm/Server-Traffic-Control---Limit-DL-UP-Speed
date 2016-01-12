@@ -111,7 +111,7 @@ case "$1" in
   *)
 
     pwd=$(pwd)
-    echo "Usage: tc.bash {start|stop|restart|show}"
+    echo "Usage: traffic.sh {start|stop|restart|show}"
     ;;
 
 esac
